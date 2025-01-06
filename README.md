@@ -68,9 +68,6 @@ Upload a video and ask questions like:
 - "What are the key takeaways?"
 - "Provide additional context about the events shown."
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - **PhiData Team**: For the robust multimodal capabilities.
 - **Google Generative AI**: For powerful video analysis APIs.
